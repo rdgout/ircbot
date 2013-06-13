@@ -1,0 +1,15 @@
+TODO:
+
+replace timerid with timerpointer
+check exceptions for write (-1, 1 -> strlen, strlen)
+ignore hash/list ~
+
+--
+
+(20|46|21) * Notice received - shroudBNC: peon: help clock auth whoareyou version seen quotes
+(20|46|21) * Notice received - shroudBNC: friend: country whois whoami rating notes asc chr raw search rules password captcha
+(20|46|21) * Notice received - shroudBNC: channel helper: voice devoice ban bans unban unbanall shun kick warn whoisknown fortune moo figlet kiss frag fish hum hug give quote addquote
+(20|46|21) * Notice received - shroudBNC: trial: setaway getaway addterm delterm getterm
+(20|46|23) * Notice received - shroudBNC: channel operator: op deop settopic reftopic addtopic deltopic reptopic instopic levels delquote
+(20|46|26) * Notice received - shroudBNC: master: commands add delete modify
+(20|46|27) * Notice received - shroudBNC: owner: tcl rehash restart dummy
